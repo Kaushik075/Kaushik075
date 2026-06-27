@@ -10,6 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kaushik075&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kaushik075&theme=dark&hide_border=true)<br/>
-username=Kaushik075&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
