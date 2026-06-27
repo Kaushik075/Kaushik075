@@ -11,5 +11,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=Kaushik075&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kaushik075&theme=dark&hide_border=true)<br/>
 
+---
 
-
+🎯 What I Build:
+✅ End-to-end cloud data pipelines (AWS / Azure / Snowflake)
+✅ Real-time streaming architectures (Kafka + Flink)
+✅ Medallion lakehouses with automated orchestration
+✅ Autonomous data quality & monitoring agents
+✅ BI dashboards on production-grade Gold layer data
