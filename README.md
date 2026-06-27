@@ -13,8 +13,12 @@
 
 
 ## What I Build:
-✅ End-to-end cloud data pipelines (AWS / Azure / Snowflake)
-✅ Real-time streaming architectures (Kafka + Flink)
-✅ Medallion lakehouses with automated orchestration
-✅ Autonomous data quality & monitoring agents
-✅ BI dashboards on production-grade Gold layer data
+- End-to-end cloud data pipelines (AWS / Azure / Snowflake)
+
+- Real-time streaming architectures (Kafka + Flink)
+
+- Medallion lakehouses with automated orchestration
+
+- Autonomous data quality & monitoring agents
+
+- BI dashboards on production-grade Gold layer data
